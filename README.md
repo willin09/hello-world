@@ -1,2 +1,3 @@
 # hello-world
 This is only the beginning...
+I'm brand spanking new to this programming thing and getting a github is part of the process.
